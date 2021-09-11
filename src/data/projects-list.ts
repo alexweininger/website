@@ -5,7 +5,7 @@ export const projectsList = [
   {
     id: 3,
     title: "Azure Static Web Apps for VS Code",
-    link: "https://github.com/alexweininger/recent-pdf",
+    link: "https://github.com/microsoft/vscode-azurestaticwebapps",
     logo: 'https://raw.githubusercontent.com/microsoft/vscode-azurestaticwebapps/main/resources/azure-staticwebapps.png',
     blurHash: "L0Aer?tjH[tPyAayj[j[00ay%xkB",
     desc: ``,
